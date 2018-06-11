@@ -1,0 +1,824 @@
+Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   24.21.13.9793
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\varun\Desktop\Course\Unity 2D\Completed\Block Breaker\Block Breaker_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\varun\Desktop\Course\Unity 2D\Completed\Block Breaker\Block Breaker_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\varun\Desktop\Course\Unity 2D\Completed\Block Breaker\Block Breaker_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\varun\Desktop\Course\Unity 2D\Completed\Block Breaker\Block Breaker_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\varun\Desktop\Course\Unity 2D\Completed\Block Breaker\Block Breaker_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\varun\Desktop\Course\Unity 2D\Completed\Block Breaker\Block Breaker_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\varun\Desktop\Course\Unity 2D\Completed\Block Breaker\Block Breaker_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\varun\Desktop\Course\Unity 2D\Completed\Block Breaker\Block Breaker_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.018 seconds
+Platform assembly: C:\Users\varun\Desktop\Course\Unity 2D\Completed\Block Breaker\Block Breaker_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\varun\Desktop\Course\Unity 2D\Completed\Block Breaker\Block Breaker_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1744)
+
+UnloadTime: 24.795862 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 54c -> priority: 1 
+  Thread -> id: 4398 -> priority: 1 
+  Thread -> id: 458c -> priority: 1 
+  Thread -> id: 3540 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 16.270296 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 267.
+Total: 0.236459 ms (FindLiveObjects: 0.028817 ms CreateObjectMapping: 0.013026 ms MarkObjects: 0.181982 ms  DeleteObjects: 0.011842 ms)
+
+New Level load: Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.490520 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 433.
+Total: 0.237248 ms (FindLiveObjects: 0.031185 ms CreateObjectMapping: 0.014211 ms MarkObjects: 0.179614 ms  DeleteObjects: 0.011447 ms)
+
+Mouse clicked, launch ball
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+New Level load: Loose Screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.368702 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 258.
+Total: 0.293699 ms (FindLiveObjects: 0.021711 ms CreateObjectMapping: 0.013026 ms MarkObjects: 0.171719 ms  DeleteObjects: 0.086451 ms)
+
+New Level load: Start Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.259355 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 271.
+Total: 0.267250 ms (FindLiveObjects: 0.022106 ms CreateObjectMapping: 0.013816 ms MarkObjects: 0.217511 ms  DeleteObjects: 0.013026 ms)
+
+Duplicate music player self-destructing!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Level load: Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.285014 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 433.
+Total: 0.237643 ms (FindLiveObjects: 0.033949 ms CreateObjectMapping: 0.013816 ms MarkObjects: 0.178035 ms  DeleteObjects: 0.011053 ms)
+
+Mouse clicked, launch ball
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+New Level load: Loose Screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.424363 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 258.
+Total: 0.294093 ms (FindLiveObjects: 0.019343 ms CreateObjectMapping: 0.013816 ms MarkObjects: 0.185535 ms  DeleteObjects: 0.074609 ms)
+
+New Level load: Start Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.315805 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 271.
+Total: 0.232117 ms (FindLiveObjects: 0.036317 ms CreateObjectMapping: 0.009474 ms MarkObjects: 0.181982 ms  DeleteObjects: 0.003552 ms)
+
+Duplicate music player self-destructing!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Quit requested
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

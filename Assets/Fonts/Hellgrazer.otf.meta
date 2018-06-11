@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0ef731629a398f449bd929b28b8b2a1f
+timeCreated: 1528297498
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hellgrazer
+  fontNames:
+  - Hellgrazer
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
